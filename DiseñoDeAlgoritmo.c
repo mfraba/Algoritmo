@@ -1,4 +1,4 @@
-//  Diseño y desarrollo de un algoritmo para la sulucion de problemas .
+//  Diseño y desarrollo de un algoritmo para la sulución de problemas .
 //  Fecha: 11/12/2020.
 //  Versión: 1.6
 /*Declaración de librerias*/
