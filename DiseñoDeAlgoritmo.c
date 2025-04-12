@@ -1,5 +1,4 @@
-//  Diseño y desarrollo de un algoritmo para la sulución de problemas .
-//  Fecha: 11/12/2020.
+//  Diseño y desarrollo de un algoritmo para la sulución de problemas.
 //  Versión: 1.6
 /*Declaración de librerias*/
 #include<stdio.h>
@@ -181,7 +180,7 @@ do{
            }
       break;
         case 3:
-            printf("\n Usted a elegido la opcion 3, a salido del programa \n");
+            printf("\n Usted a elegido la opcion 3, ha salido del programa \n");
     }
     }while (opc!=3);
 }
