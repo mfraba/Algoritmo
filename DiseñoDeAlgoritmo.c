@@ -1,4 +1,4 @@
-//  Diseño y desarrollo de un algoritmo para la sulución de problemas.
+//  Diseño y desarrollo de un algoritmo para la solución de problemas matemáticos.
 //  Versión: 1.6
 /*Declaración de librerias*/
 #include<stdio.h>
